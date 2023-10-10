@@ -1,0 +1,2 @@
+export { GetDate } from "./getDate";
+
